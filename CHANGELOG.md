@@ -1,5 +1,12 @@
 # Changelog
 
+## [26.18.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.17.0...v26.18.0) (2026-03-09)
+
+
+### Features
+
+* Shelly SBBT-104CUS: Add support for double, triple, and long events  ([#11678](https://github.com/Koenkk/zigbee-herdsman-converters/issues/11678)) ([e8c865b](https://github.com/Koenkk/zigbee-herdsman-converters/commit/e8c865be639a55bb97c249ba77b92c2ea93a15dc))
+
 ## [26.17.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.16.1...v26.17.0) (2026-03-09)
 
 
